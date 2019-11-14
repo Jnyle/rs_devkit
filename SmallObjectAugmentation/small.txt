@@ -1,0 +1,5 @@
+./crops/sp1.png
+./crops/sp2.png
+./crops/sp3.png
+./crops/sp4.png
+./crops/sp5.png

@@ -1,0 +1,12 @@
+data/origin/P0060.png
+data/origin/P0061.png
+data/origin/P0063.png
+data/origin/P0064.png
+data/origin/P0065.png
+data/origin/P0082.png
+data/origin/P0083.png
+data/origin/P0130.png
+data/origin/P0131.png
+data/origin/P0133.png
+data/origin/P0468.png
+data/origin/P0494.png
